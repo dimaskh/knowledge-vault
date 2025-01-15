@@ -1,5 +1,108 @@
-1. A collection of notes, guides and resources for learning various technical skills.
-2. Each note should be simple, concise and easy to understand, even for the advanced topics.
-3. The notes should be written in a format that can be easily converted to PDF or other formats.
-4. The notes should be updated regularly to keep up with the latest developments in the field.
-5. The notes should be ready to be copy/pasted or imported into Notion.
+1. Purpose and Scope:
+
+   - A comprehensive collection of notes, guides, and resources
+   - Focus on technical skills and concepts
+   - Maintain practical, hands-on approach
+   - Regular updates to reflect industry changes
+
+2. Content Quality:
+
+   - Simple and concise explanations
+   - Accessible for all skill levels
+   - Clear and structured presentation
+   - Focus on fundamental understanding
+   - Avoid unnecessary complexity
+
+3. Format Requirements:
+
+   - Compatible with multiple export formats (PDF, etc.)
+   - Clean and consistent markdown formatting
+   - Proper heading hierarchy
+   - Well-organized sections
+   - Easy to navigate structure
+
+4. Maintenance:
+
+   - Regular content reviews
+   - Update outdated information
+   - Add new developments
+   - Remove deprecated content
+   - Keep examples current
+
+5. Integration Requirements:
+
+   - Notion-compatible formatting
+   - Clean copy/paste support
+   - Consistent styling
+   - Proper spacing and layout
+   - Working links and references
+
+6. Visual Elements:
+
+   - Mermaid diagrams for visualization
+   - Clear and purposeful diagrams
+   - Interactive elements where appropriate
+   - Consistent diagram style
+   - Proper diagram documentation
+
+7. Code Implementation:
+
+   - Minimal code snippets
+   - Focus on explanatory text
+   - Clear descriptions
+   - Practical examples
+   - Bullet-point explanations
+
+8. Implementation Examples:
+
+   - Dedicated implementation sections
+   - Python and JavaScript examples
+   - Concise and focused code
+   - Clear documentation
+   - Practical use cases
+
+9. Standard Note Structure:
+   a. Each technical note should follow this general structure:
+
+   - Title and Last Updated Date
+   - Overview (brief, 1-2 paragraphs)
+   - Core Concepts
+     - Basic Terms
+     - Key Components (with Mermaid diagrams where applicable)
+     - Fundamental Principles
+   - Main Content Sections (topic-specific)
+     - Appropriate diagrams and visualizations
+     - Bullet points for clarity
+     - Concise explanations
+   - Implementation Examples (if applicable)
+     - Python implementation
+     - JavaScript implementation
+     - Keep examples focused and minimal
+   - Security Considerations (if applicable)
+     - Best practices
+     - Common vulnerabilities
+     - Implementation security
+   - Common Use Cases
+     - Real-world applications
+     - Practical examples
+   - Historical Context (if relevant)
+     - Origins and evolution
+     - Key motivations
+     - Industry impact
+
+   b. Section Flexibility:
+
+   - Not all sections are mandatory
+   - Sections can be added or removed based on topic
+   - Order can be adjusted if it improves flow
+   - Each section should maintain clarity and conciseness
+
+   c. Visual Elements:
+
+   - Use Mermaid diagrams for:
+     - Workflows and processes
+     - Component relationships
+     - Architecture diagrams
+     - Decision trees
+   - Keep diagrams simple and focused
+   - Include legends where necessary
